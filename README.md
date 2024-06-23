@@ -4,8 +4,8 @@ This Bash script is designed to scan a list of domains for Cross-Site Scripting 
 ### USAGE
 ```./xss_scanner.sh domain_file payload_file```
 
-domain_file: A file containing a list of domains to be scanned, one domain per line.
-payload_file: A file containing XSS payloads, one payload per line.
+domain_file: A file containing a list of domains to be scanned, one domain per line.  
+payload_file: A file containing XSS payloads, one payload per line.  
 
 
 ### Requirements

@@ -7,7 +7,6 @@ This Bash script is designed to scan a list of domains for Cross-Site Scripting 
 domain_file: A file containing a list of domains to be scanned, one domain per line.  
 payload_file: A file containing XSS payloads, one payload per line.  
 
-
 ### Requirements
 Ensure the following tools are installed and accessible in your PATH:
 
@@ -15,3 +14,13 @@ Ensure the following tools are installed and accessible in your PATH:
 **qsinject:** Injects query strings into URLs.  
 **freq:** Analyzes and identifies potential XSS vulnerabilities.  
 
+### Note: False Positives
+
+**This tool may generate false positive results. I am actively working on improving its accuracy.**  
+
+- **False positives** occur when the tool incorrectly identifies vulnerabilities that do not actually exist.  
+- **Feedback and suggestions** are welcome to help refine the tool and reduce false positives.  
+
+If you encounter false positives or have ideas for improvement, please open an [issue] or [contribute]to the project.  
+
+Thank you for your understanding and support!  

